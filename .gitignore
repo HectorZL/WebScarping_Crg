@@ -1,0 +1,5 @@
+#igora las dependencias de desarrollo de la libreria llamada explorercrg
+explorercrg/
+
+#ignora el cromedriver
+chromedriver_linux/
