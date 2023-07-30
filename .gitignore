@@ -2,4 +2,8 @@
 explorercrg/
 
 #ignora el cromedriver
-chromedriver_linux/
+cromedriver
+
+#ignora el archivo href_values.txt
+href_values.txt
+
