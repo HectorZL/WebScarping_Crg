@@ -7,3 +7,8 @@ cromedriver
 #ignora el archivo href_values.txt
 href_values.txt
 
+#ignora la carptea env
+envcrg/
+
+#ignora la carpeta que genera el .exe
+dist/
