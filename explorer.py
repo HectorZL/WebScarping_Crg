@@ -62,7 +62,7 @@ class ExtractLinksThread(QThread):
 
                 self.progressChanged.emit(int(((i + 1) / total_links) * 100))
             except requests.exceptions.RequestException as e:
-                self.error.emit(f"Error accessing URL: {url}\n\n{str(e)}")
+                self.error.emit(f"Error accedieno al URL: {url}\n\n{str(e)}")
 
         self.finished.emit()
 
