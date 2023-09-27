@@ -1,0 +1,9 @@
+#igora las dependencias de desarrollo de la libreria llamada explorercrg
+explorercrg/
+
+#ignora el cromedriver
+cromedriver
+
+#ignora el archivo href_values.txt
+href_values.txt
+
