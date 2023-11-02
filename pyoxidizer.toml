@@ -1,8 +1,0 @@
-[app]
-name = "extractor"
-version = "1.0.0"
-description = "Descripción de la aplicación"
-
-[[bin]]
-name = "crg_extrator"
-path = "explorer.py"

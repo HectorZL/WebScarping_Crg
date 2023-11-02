@@ -12,3 +12,12 @@ envcrg/
 
 #ignora la carpeta que genera el .exe
 dist/
+
+#ignora la carpeta build
+build/
+
+#ignora el archivo .spec
+*.spec
+
+#ignora la carpeta __pycache__
+__pycache__/
